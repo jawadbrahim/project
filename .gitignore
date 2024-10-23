@@ -1,0 +1,6 @@
+.env
+pyvenv.cfg
+Include/
+Scripts/
+Lib/
+test.py
